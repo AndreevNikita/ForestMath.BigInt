@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForestMath.BigInt", "ForestMath.BigInt\ForestMath.BigInt.csproj", "{BF5143BF-DB15-480E-85A6-CF604536E4C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{D182F8D7-72D5-4B3B-A20B-01DE008D5061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF5143BF-DB15-480E-85A6-CF604536E4C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5143BF-DB15-480E-85A6-CF604536E4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5143BF-DB15-480E-85A6-CF604536E4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5143BF-DB15-480E-85A6-CF604536E4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D182F8D7-72D5-4B3B-A20B-01DE008D5061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D182F8D7-72D5-4B3B-A20B-01DE008D5061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D182F8D7-72D5-4B3B-A20B-01DE008D5061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D182F8D7-72D5-4B3B-A20B-01DE008D5061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {920FABBA-73DB-4AAD-BCC4-893ED89699AF}
+	EndGlobalSection
+EndGlobal

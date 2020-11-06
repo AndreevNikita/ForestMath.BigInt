@@ -1,2 +1,2 @@
 # ForestMath.BigInt
-Int128 type for C#
+UInt128 type for C#. Now it's only for GUIDs generation
