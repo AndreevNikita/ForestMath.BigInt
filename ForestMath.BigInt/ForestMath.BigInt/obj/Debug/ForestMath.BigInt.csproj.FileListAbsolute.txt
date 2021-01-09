@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\GitHub\ForestMath.BigInt\ForestMath.BigInt\ForestMath.BigInt\bin\Debug\ForestMath.BigInt.dll
+C:\Users\Nick\Documents\GitHub\ForestMath.BigInt\ForestMath.BigInt\ForestMath.BigInt\bin\Debug\ForestMath.BigInt.pdb
+C:\Users\Nick\Documents\GitHub\ForestMath.BigInt\ForestMath.BigInt\ForestMath.BigInt\obj\Debug\ForestMath.BigInt.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\ForestMath.BigInt\ForestMath.BigInt\ForestMath.BigInt\obj\Debug\ForestMath.BigInt.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\ForestMath.BigInt\ForestMath.BigInt\ForestMath.BigInt\obj\Debug\ForestMath.BigInt.dll
+C:\Users\Nick\Documents\GitHub\ForestMath.BigInt\ForestMath.BigInt\ForestMath.BigInt\obj\Debug\ForestMath.BigInt.pdb
