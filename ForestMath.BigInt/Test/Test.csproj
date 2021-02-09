@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D182F8D7-72D5-4B3B-A20B-01DE008D5061}</ProjectGuid>
+    <ProjectGuid>{E0B0C77F-6C8B-42B9-9B11-098B16505E07}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Test</RootNamespace>
     <AssemblyName>Test</AssemblyName>
@@ -51,7 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ForestMath.BigInt\ForestMath.BigInt.csproj">
-      <Project>{bf5143bf-db15-480e-85a6-cf604536e4c6}</Project>
+      <Project>{099c79c2-c3a0-4fda-82a8-25a0d3fc8b8e}</Project>
       <Name>ForestMath.BigInt</Name>
     </ProjectReference>
   </ItemGroup>
